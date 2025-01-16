@@ -1,0 +1,1 @@
+This project focuses on detecting phishing websites by analyzing URL features and applying a predictive machine-learning model. Phishing websites are malicious sites designed to steal sensitive information such as usernames, passwords, and financial details. The goal of this project is to classify URLs as either legitimate or phishing to enhance cybersecurity.
